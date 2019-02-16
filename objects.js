@@ -11,5 +11,5 @@ function removeFromPlaylist(playlist, artistName) {
   console.log(playlist);
 }
 
-removeFromPlaylist(playlist, 'Slowdive');
+removeFromPlaylist(playlist, 'Alison');
 console.log(playlist);
